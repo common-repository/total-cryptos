@@ -1,0 +1,18 @@
+/*
+ *
+ *   INSPINIA - Responsive Admin Theme
+ *   version 2.7.1
+ *
+*/
+
+.admin_help, .admin_settings {
+    background: #FFF;
+    padding: 20px 20px 20px 15px;
+}
+.form_footer {
+    margin-top: 20px;
+}
+
+input.currency_slider {
+    margin-top: 3px;
+}
